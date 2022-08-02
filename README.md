@@ -1,2 +1,2 @@
-# curso-de-forma-o-terca-html-css
+# curso-de-formacao htm/css
 formação hoje terca html css
